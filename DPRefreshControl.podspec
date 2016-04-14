@@ -11,7 +11,7 @@ s.author = { "Dennis Pashkov" => "dennis.pashkov@icloud.com" }
 s.homepage = "https://github.com/bigsnickers/DPRefreshControl"
 s.source = { :git => "https://github.com/bigsnickers/DPRefreshControl.git", :tag => s.version }
 s.source_files = "Source/**/*.{swift}"
-s.requires_arc - true
+s.requires_arc = true
 s.resources = "Source/**/*.{png,storyboard,xib}"
 
 end
